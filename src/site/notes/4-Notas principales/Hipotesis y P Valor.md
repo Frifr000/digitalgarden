@@ -106,7 +106,9 @@ $$
 (-\infty;z_{c})  
 $$
 Siendo Zc la region de la variable normal estándar que acumula un área $a$ (en este caso 0.05) a su izquierda, viéndose gráficamente como :
+
 ![Pasted image 20241112175643.png](/img/user/0-Imagenes/Pasted%20image%2020241112175643.png)
+
 
 Si lo calculamos en la app nos da que $Zc=-1.64485$ , por lo cual nuestra zona de rechazo queda como 
 
@@ -115,13 +117,18 @@ $$
 $$
 Suponiendo ahora que 𝑋̅ = 497,3 (nos lo da la consigna el dato), entonces remplazamos en la f de distribucion:
 
+
 $$
 \frac{497.3-500}{\frac{5}{\sqrt{ 100 }}}  
-$$ Si esta fracción da un numero que esa entre $(-\infty;-164485)$ , entonces $H_{0}$ queda rechazada, caso contrario, $h_{0}$ se considera valida con la información disponible. Resolviendo:
+$$
+
+Si esta fracción da un numero que esa entre $(-\infty;-164485)$ , entonces $H_{0}$ queda rechazada, caso contrario, $h_{0}$ se considera valida con la información disponible. Resolviendo:
 
 $$
 \frac{497.3-500}{\frac{5}{\sqrt{ 100 }}}  =-5,4
 $$
+
+
 Ya que $-5,4\in(-\infty;-164485)$ , $H_{0}$ queda rechazada a 5% de significacion.
 
 ### Planteo de cola por derecha:
