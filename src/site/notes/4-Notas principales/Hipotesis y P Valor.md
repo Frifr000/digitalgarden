@@ -113,7 +113,7 @@ Siendo Zc la region de la variable normal estándar que acumula un área $a$ (en
 Si lo calculamos en la app nos da que $Zc=-1.64485$ , por lo cual nuestra zona de rechazo queda como 
 
 $$
-(-\infty;-164485)  
+(-\infty;-1,64485)  
 $$
 Suponiendo ahora que 𝑋̅ = 497,3 (nos lo da la consigna el dato), entonces remplazamos en la f de distribucion:
 
@@ -129,7 +129,7 @@ $$
 $$
 
 
-Ya que $-5,4\in(-\infty;-164485)$ , $H_{0}$ queda rechazada a 5% de significacion.
+Ya que $-5,4\in(-\infty;-1,64485)$ , $H_{0}$ queda rechazada a 5% de significacion.
 
 ### Planteo de cola por derecha:
 

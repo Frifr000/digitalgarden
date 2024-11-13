@@ -34,7 +34,7 @@ y lo que variara será nuestra H1
 
 Si 
 
-$H_{1}:/\rho>0$
+$H_{1}:\rho>0$
 
 entonces 
 
@@ -46,7 +46,7 @@ $$
 $$
 Si 
 
-$H_{1}:/\rho<0$
+$H_{1}:\rho<0$
 
 entonces 
 
@@ -58,7 +58,7 @@ $$
 $$
 Si 
 
-$H_{1}:/\rho≠0$
+$H_{1}:\rho≠0$
 
 Entonces se puede usar cualquiera de los 2, aunque el t usado debe ser con el a/2
 
@@ -77,7 +77,7 @@ entre la puntuaci6n del riesgo político y la inflación de estos paises era de 
 Tenemos una estructura (la da ya planteada la consigna)
 
 $H_{0}:\rho=o$
-$H_{1}:/\rho>0$
+$H_{1}:\rho>0$
 
 Por lo cual para verificar la correlacion deberemos ver si 
 
@@ -149,6 +149,77 @@ $$
 
 Si en el examen toman un ejercicio de regresión lineal, entonces (a menos que ya lo aclare la consiga) hay que empezar con la prueba de hipótesis para fijarse si hay una relación lineal entre las variables, y si hay entonces ahí se puede pasar al planteo de las ecuaciones de regresión. 
 
+### Pasos generales:
+
+1- Despejar r usando 
+
+
+$$
+r=\frac{Cov(xy)}{\sigma_{x}\sigma_{y}}
+$$
+
+donde 
+
+$Var(x)=E(X{^2})-E(X){^2}$
+$Cov(xy)=E(xy)-E(X).E(Y)$
+y obviamente $E(X)=\frac{Suma_{x}}{n}$
+
+2- Una vez sacado r, plantear $H_{0}$ y $H_{1}$ acorde a la consigna y despejar 
+
+Si 
+
+$H_{1}:\rho>0$
+
+entonces 
+
+Rechazar $H_{0}$ si 
+
+$$
+\frac{r\sqrt{ (n-2) }}{\sqrt{ (1-r{{^2}}) }}>t
+
+$$
+Si 
+
+$H_{1}:\rho<0$
+
+entonces 
+
+Rechazar $H_{0}$ si 
+
+$$
+\frac{r\sqrt{ (n-2) }}{\sqrt{ (1-r{{^2}}) }}<-t
+
+$$
+Si 
+
+$H_{1}:\rho≠0$
+
+Entonces se puede usar cualquiera de los 2, aunque el t usado debe ser con el a/2
+
+3- Si $H_{0}$ es rechazada, plantear ecuaciones 
+
+$$
+Y=A+Bx 
+$$
+$$
+\sum Y=nA+B/\sum x
+$$
+$$
+\sum xy=A/\sum x+B/\sum X{{^2}}
+$$
+
+$$
+B=\frac{Cov(xy)}{var(x)}=r{\frac{\sigma_{y}}{\sigma_{x}}}
+$$
+
+$$
+A=E(Y)-B.E(X)
+$$
+
+
+$$
+Y= E(Y)-B(X-E(X))
+$$
 # Métodos y supuestos de mínimos cuadrados (solo en caso que lo tome en el teórico)
 
 ![Pasted image 20241113015722.png](/img/user/0-Imagenes/Pasted%20image%2020241113015722.png)
