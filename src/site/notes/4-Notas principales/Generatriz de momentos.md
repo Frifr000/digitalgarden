@@ -50,13 +50,25 @@ Tabla general:
 
 En caso de que pida calcular un momento en algun tipo de variable , se puede sacar de esta tabla , derivar y remplazar.
 
+Coeficiente de asimetría de Fisher
+Mide que tan asimétrica es una v.a y se calcula como:
+
+
+$$
+A_{s}=\frac{\mu{^3}}{\sigma{^3}}
+$$
+As>0 es asimetrica hacia la derecha
+K<0 es asimetrica hacia la izquierda  
+K=0 no es asimetrica 
 ## Curtosis:
 
 La curtosis mide la concentración alrededor de la media de una v.a y  se calcula como 
 
+
 $$
 K=\frac{\mu{^4}}{\sigma{^4}}
 $$
+
 
 Donde 
 
