@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-Notas principales/Poisson y otras variables/"}
 ---
 
--Parte de : [[3-Links o indices/Estadística\|Estadística]]
+Parte de : [[3-Links o indices/Estadística\|Estadística]]
 # **Variable Geométrica** 
 
 ![unnamed-chunk-46-1-1.png|600](/img/user/0-Imagenes/unnamed-chunk-46-1-1.png)

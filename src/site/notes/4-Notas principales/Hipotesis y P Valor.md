@@ -3,7 +3,7 @@
 ---
 
 Parte de : [[3-Links o indices/Estadística\|Estadística]]
--
+--
 # Prueba de Hipótesis 
 
 

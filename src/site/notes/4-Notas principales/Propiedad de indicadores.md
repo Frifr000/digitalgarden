@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-Notas principales/Propiedad de indicadores/"}
 ---
 
--Parte de la serie:[[3-Links o indices/Estadística\|Estadística]]
+Parte de la serie:[[3-Links o indices/Estadística\|Estadística]]
 Las principales propiedades de los indicadores son :
 
 1  Los estimadores deben ser Insesgados 
