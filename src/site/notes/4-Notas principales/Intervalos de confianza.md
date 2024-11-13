@@ -226,20 +226,30 @@ $$
 
 Diferencia de medias:
 
-| $\sigma$                            | n    |                                                                                                                                                                                                             |     |
-| ----------------------------------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| Conocida                            | -    | $P[(W{{^-}-X{{^-})}}-Z_{1}.\sqrt{ \frac{\sigma_{w}^{2}}{n_{w}}+\frac{\sigma_{x}^{2}}{n_{x}} }<\mu_{w}-\mu _{x}<(W{{^-}-X{{^-})}}+Z_{1}.\sqrt{ \frac{\sigma_{w}^{2}}{n_{w}}+\frac{\sigma_{x}^{2}}{n_{x}} }]$ | 1   |
-| Desconocida                         | n≥30 | $P[(W{{^-}-X{{^-})}}-Z_{1}.\sqrt{ \frac{S_{w}^{2}}{n_{w}}+\frac{S_{x}^{2}}{n_{x}} }<\mu_{w}-\mu _{x}<(W{{^-}-X{{^-})}}+Z_{1}.\sqrt{ \frac{S_{w}^{2}}{n_{w}}+\frac{S_{x}^{2}}{n_{x}} }]$                     | 2   |
-| Desconocida                         | n<30 | $P[(W{{^-}-X{{^-})}}-t.\sqrt{ \frac{S_{w}^{2}}{n_{w}}+\frac{S_{x}^{2}}{n_{x}} }<\mu_{w}-\mu _{x}<(W{{^-}-X{{^-})}}+t.\sqrt{ \frac{S_{w}^{2}}{n_{w}}+\frac{S_{x}^{2}}{n_{x}} }]$                             | 3   |
-| Desconocidas pero se asumen iguales | -    | $P[(W{{^-}-X{{^-})}}-t.\sigma\sqrt{ \frac{1}{n_{w}}+\frac{1}{n_{x}} }<\mu_{w}-\mu _{x}<(W{{^-}-X{{^-})}}+t.\sigma\sqrt{ \frac{1}{n_{w}}+\frac{1}{n_{x}} }]$                                                 | 4   |
+| $\sigma$                                   | n    |                                                                                                                                                                                                             |     |
+| ------------------------------------------ | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Conocida                                   | -    | $P[(W{{^-}-X{{^-})}}-Z_{1}.\sqrt{ \frac{\sigma_{w}^{2}}{n_{w}}+\frac{\sigma_{x}^{2}}{n_{x}} }<\mu_{w}-\mu _{x}<(W{{^-}-X{{^-})}}+Z_{1}.\sqrt{ \frac{\sigma_{w}^{2}}{n_{w}}+\frac{\sigma_{x}^{2}}{n_{x}} }]$ | 1   |
+| Desconocida                                | n≥30 | $P[(W{{^-}-X{{^-})}}-Z_{1}.\sqrt{ \frac{S_{w}^{2}}{n_{w}}+\frac{S_{x}^{2}}{n_{x}} }<\mu_{w}-\mu _{x}<(W{{^-}-X{{^-})}}+Z_{1}.\sqrt{ \frac{S_{w}^{2}}{n_{w}}+\frac{S_{x}^{2}}{n_{x}} }]$                     | 2   |
+| Desconocida*                               | n<30 | $P[(W{{^-}-X{{^-})}}-t.\sqrt{ \frac{S_{w}^{2}}{n_{w}}+\frac{S_{x}^{2}}{n_{x}} }<\mu_{w}-\mu _{x}<(W{{^-}-X{{^-})}}+t.\sqrt{ \frac{S_{w}^{2}}{n_{w}}+\frac{S_{x}^{2}}{n_{x}} }]$                             | 3   |
+| Desconocidas pero se asumen iguales$*_{2}$ | -    | $P[(W{{^-}-X{{^-})}}-t.\sigma\sqrt{ \frac{1}{n_{w}}+\frac{1}{n_{x}} }<\mu_{w}-\mu _{x}<(W{{^-}-X{{^-})}}+t.\sigma\sqrt{ \frac{1}{n_{w}}+\frac{1}{n_{x}} }]$                                                 | 4   |
 
 Aproximacion de Welch (Necesaria para grados de libertad del caso 3)
 
 
  ![Pasted image 20241112025929.png](/img/user/0-Imagenes/Pasted%20image%2020241112025929.png)
  
+ $*_{2}$
+ Como saber si las varianzas son iguales:
+ $$
+I\left( \frac{\sigma{^2_{1}}}{\sigma{{^2}}_{2}} \right)=\left[ \frac{\frac{S{{{^2}_{1}}}}{S_{2}{^2}}}{F_{a/2;d_{1};d_{2}}};\frac{\frac{S{{{^2}_{1}}}}{S_{2}{^2}}}{F_{1-a/2;d_{1};d_{2}}}\right]
+$$
+ Si este intervalo cubre el 0, entonces se verifica $H_{0}$ : $\sigma_{1}$ - $\sigma_{2}$ =0, por lo cual se puede decir que son iguales .
+ 
+
  
  Si te aparece una diferente a cualquiera de estos casos, matate.
+
+
 
 # Teorema central del limite:
 
