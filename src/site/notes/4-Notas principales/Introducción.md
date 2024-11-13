@@ -4,7 +4,7 @@
 
 
 [[3-Links o indices/Estadística\|Estadística]]
---
+-
 Aun desde aquí escucho sus pasos sobre el pasto. 
 Fui demasiado arrogante, creí que 1 día seria suficiente, mi ingenio me había salvado anteriormente , ¿porque no podría salvarme ahora?. La ventana de mi estudio, única vanguardia contra los ventosos azotes de esta nefasta tormenta, me da una vista privilegiada del patio. Entre   torrentes de agua veo una silueta, pequeña, pero progresivamente mas y mas grande, cada paso un golpe de tambor sobre la tierra, lleno de enojo.  Ese enojo es contra mi; **él**  viene por mi.
 Debí haber tomado la materia con la seriedad que correspondía, debí haber reconocido a aquella bestia que asomaba sus colmillos  entre explicaciones de ejercicios mal resueltos. Ahora, en lo que seguramente son las horas (¿o minutos?) culmines de mi vida, solo puedo reflexionar sobre las catástrofes que me llevaron a esta situación. 

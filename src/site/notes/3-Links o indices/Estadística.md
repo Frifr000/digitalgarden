@@ -3,7 +3,7 @@
 ---
 
 Esta pagina es un índice
---
+-
 Links:
 
 - ~~[[4-Notas principales/Introducción\|Introducción]]~~
