@@ -3,7 +3,8 @@
 ---
 
 Parte de :[[3-Links o indices/Estadística\|Estadística]]
--
+
+# Intervalos de confianza
 Los intervalos de confianza son un método para estimar parámetros dentro de un intervalo determinado , acorde a un grado de confianza especifico (por eso el nombre no),
 
 La estructura general  de resolución de ejercicios de  intervalos de confianza siempre es la misma, pero las formulas especificas varían acorde a la consigna. 

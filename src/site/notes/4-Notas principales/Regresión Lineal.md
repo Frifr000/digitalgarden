@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/4-Notas principales/Regresión Lineal/"}
 ---
 
+# Regresión Lineal
 Decimos que hay una relación lineal entre las variables independientes x e y  si en un diagrama de puntos dispersos las observaciones conjuntas de ambas variables tienden a estar concentradas alrededor de una linea recta.  Para medir la fuerza de la relación lineal de una muestral, una medida descriptiva útil es el coeficiente de correlación muestral, el cual tiene la estructura:
 
 $$
