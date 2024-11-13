@@ -50,3 +50,16 @@ Tabla general:
 
 En caso de que pida calcular un momento en algun tipo de variable , se puede sacar de esta tabla , derivar y remplazar.
 
+## Curtosis:
+
+La curtosis mide la concentración alrededor de la media de una v.a y  se calcula como 
+
+$$
+K=\frac{\mu{^4}}{\sigma{^4}}
+$$
+
+Donde 
+
+K>3 es una distribución leptocurtica (mayor distribución que una normal)
+K<3 es una distribución platocurtica  (menor distribución que una normal)
+K=3 es una distribucion mesocurtica (misma distribución que la normal)
