@@ -287,15 +287,15 @@ $$
 \frac{y/x}{(y/x){^2}+1}=x.C
 $$
 $$
-\frac{\frac{y}{x}}{\left( \frac{y+x}{x} \right){^2}}=x.C
+\frac{\frac{y}{x}}{\left( \frac{y{^2}+x{^2}}{x{^2}} \right)}=x.C
 $$
 Por propiedad de fracciones 
 
 $$
-\frac{y.x{^2}}{(y+x){^2}.x}=x.C
+\frac{y.x{^2}}{(y{^2}+x{^2}).x}=x.C
 $$
 $$
-\frac{y.x{^2}}{(y+x){^2}.x}.\left( \frac{1}{x} \right)=C
+\frac{y.x{^2}}{(y{^2}+x{^2}).x}.\left( \frac{1}{x} \right)=C
 $$
 $$
 \frac{y}{y{^2}+x{^2}}=C
