@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-Links o indices/Estadística/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/3-Links o indices/Estadística/"}
 ---
 
 Esta pagina es un índice
