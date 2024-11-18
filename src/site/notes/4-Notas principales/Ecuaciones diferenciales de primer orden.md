@@ -103,3 +103,4 @@ Ahora que sabemos la estructura de las soluciones, vamos a ver lo métodos.
 
 [[4-Notas principales/Homogeneas\|Homogeneas]]
 
+[[4-Notas principales/Lineales\|Lineales]] 
