@@ -81,10 +81,13 @@ P{^,}_{y}=\frac{1}{x{^2}}
 $$$$
 Q{^,}_{x}=\frac{1}{x{^2}}
 $$
+
 Se verifica. Despejamos U
 
 $$
+
 \int \left( \frac{y}{x{^2}}+\frac{\ln x}{x{^2}} \right) dx=-\frac{y}{x}-\frac{\ln x+1}{x}+a(y)
+
 $$
 $$
 \int\left( \frac{1}{-x} \right)dy=-\frac{y}{x}
@@ -138,7 +141,9 @@ $$
 $$
 $$
 \int x{^2}y.dy =\frac{x{^2}y{^2}}{2}
+
 $$
+
 Solución general:
 
 $$
