@@ -104,3 +104,38 @@ Ahora que sabemos la estructura de las soluciones, vamos a ver lo métodos.
 [[4-Notas principales/Homogeneas\|Homogeneas]]
 
 [[4-Notas principales/Lineales\|Lineales]] 
+
+[[4-Notas principales/Exactas\|Exactas]]
+
+[[4-Notas principales/Factor integrante\|Factor integrante]]
+
+[[4-Notas principales/Bernoulli\|Bernoulli]]
+
+Tip: Todas las funciones que se pueden resolver como homogéneas también se pueden resolver como exactas/factor integrante, así que suele mejor resolverlas así porque las homogéneas son un dolor en el orto. Igual diría practicar un poquito de homogéneas por si acaso.
+
+
+Ahora si se fijaron todas las ecuaciones acá dejo ecuaciones diferenciales generales para practicar un poco (no las voy  a hacer acá). Es bueno acordarse que la mayoria se puede solucionar por varios métodos. Todas salen de la sección de generales de la guia de Venturini. Estos ejs seguramente sean de igual dificultad o mas difíciles que los que tomen en el parcial: 
+
+1)
+$$
+y{^,}+2xy=4x
+$$
+5)
+$$
+\frac{dy}{dx}=\frac{1+y{^2}}{(1+x{^2})xy}
+$$
+6)
+$$
+y{^,}=\frac{\ln(x{^2}+1)}{y{^3}}
+$$
+10)
+
+$$
+(3xy{^2}+8x{^2})dx+2x{^2}y.dy
+$$
+14)
+$$
+(x{^4}+y{^4})dx-xy{{^3}dy=0}
+$$
+
+
