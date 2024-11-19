@@ -78,7 +78,10 @@ verificamos simetría:
 
 $$
 P{^,}_{y}=\frac{1}{x{^2}}
-$$$$
+$$
+
+
+$$
 Q{^,}_{x}=\frac{1}{x{^2}}
 $$
 
