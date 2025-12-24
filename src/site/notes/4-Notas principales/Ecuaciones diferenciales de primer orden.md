@@ -113,6 +113,8 @@ Ahora que sabemos la estructura de las soluciones, vamos a ver lo métodos.
 
 Tip: Todas las funciones que se pueden resolver como homogéneas también se pueden resolver como exactas/factor integrante, así que suele mejor resolverlas así porque las homogéneas son un dolor en el orto. Igual diría practicar un poquito de homogéneas por si acaso.
 
+Estuve viendo parciales viejos y prácticamente lo único que toma Hernandez son ecuaciones lineales, así que si están cortos de tiempo quizás conviene solo estudiar esas, aunque se arriesgan a que si toma otra cosa están en bolas. 
+
 
 Ahora si se fijaron todas las ecuaciones acá dejo ecuaciones diferenciales generales para practicar un poco (no las voy  a hacer acá). Es bueno acordarse que la mayoria se puede solucionar por varios métodos. Todas salen de la sección de generales de la guia de Venturini. Estos ejs seguramente sean de igual dificultad o mas difíciles que los que tomen en el parcial: 
 
